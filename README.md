@@ -1,1 +1,1 @@
-# Multiprocessing task using Python
+# Solution documentation
